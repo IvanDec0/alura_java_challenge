@@ -7,18 +7,14 @@ This project is a Java-based client for interacting with the Exchange Rate API. 
 - **Standard Request**: Get the latest exchange rates for a specified currency.
 - **Pair Conversion Request**: Get the exchange rate between two specified currencies.
 - **Pair Conversion with Amount Request**: Get the converted amount between two specified currencies.
-- **History Request**: Get historical exchange rate data.
-- **History with Amount Request**: Get historical exchange rate data with a specified amount.
-
 
 ## Setup
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/IvanDec0/alura_java_challenge.git
-    ```
+   ```sh
+   git clone https://github.com/IvanDec0/alura_java_challenge.git
+   ```
 2. Open the project in IntelliJ IDEA.
-
 
 ## Usage
 
